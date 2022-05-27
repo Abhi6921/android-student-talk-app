@@ -1,0 +1,2 @@
+rootProject.name = "student-talk-app"
+include ':app'
