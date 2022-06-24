@@ -1,4 +1,4 @@
-package com.abhicoder.student_talk_app
+package com.abhicoder.student_talk_app.feature_note.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             CleanArchitectureNoteAppTheme {
+
 
             }
         }
