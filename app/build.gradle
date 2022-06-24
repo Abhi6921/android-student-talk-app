@@ -45,10 +45,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
-    // ui and tooling
-    //implementation "androidx.compose.ui:ui:$compose_version"
-    //implementation "androidx.compose.material:material:$compose_version"
-    //implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
 
     implementation "androidx.compose.ui:ui:1.2.0-rc01"
     implementation "androidx.compose.material:material:1.2.0-rc01"
@@ -77,6 +73,5 @@ dependencies {
 
     // Kotlin Extensions and Coroutines support for Room
     implementation "androidx.room:room-ktx:2.3.0"
-
 
 }
